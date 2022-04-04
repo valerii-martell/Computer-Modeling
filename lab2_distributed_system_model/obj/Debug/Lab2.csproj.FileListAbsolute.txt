@@ -1,0 +1,6 @@
+D:\projects\ComputerModelling\Lab2\bin\Debug\Lab2.exe.config
+D:\projects\ComputerModelling\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+D:\projects\ComputerModelling\Lab2\bin\Debug\Lab2.exe
+D:\projects\ComputerModelling\Lab2\bin\Debug\Lab2.pdb
+D:\projects\ComputerModelling\Lab2\obj\Debug\Lab2.exe
+D:\projects\ComputerModelling\Lab2\obj\Debug\Lab2.pdb

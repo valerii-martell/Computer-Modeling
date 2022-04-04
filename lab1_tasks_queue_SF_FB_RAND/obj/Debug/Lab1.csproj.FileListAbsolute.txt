@@ -1,0 +1,12 @@
+E:\projects\ComputerModelling\Lab1\bin\Debug\Lab1.exe.config
+E:\projects\ComputerModelling\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+E:\projects\ComputerModelling\Lab1\bin\Debug\Lab1.exe
+E:\projects\ComputerModelling\Lab1\bin\Debug\Lab1.pdb
+E:\projects\ComputerModelling\Lab1\obj\Debug\Lab1.exe
+E:\projects\ComputerModelling\Lab1\obj\Debug\Lab1.pdb
+D:\projects\ComputerModelling\Lab1\bin\Debug\Lab1.exe.config
+D:\projects\ComputerModelling\Lab1\obj\Debug\Lab1.exe
+D:\projects\ComputerModelling\Lab1\obj\Debug\Lab1.pdb
+D:\projects\ComputerModelling\Lab1\bin\Debug\Lab1.exe
+D:\projects\ComputerModelling\Lab1\bin\Debug\Lab1.pdb
+D:\projects\ComputerModelling\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
